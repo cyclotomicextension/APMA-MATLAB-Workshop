@@ -17,7 +17,7 @@ This repository contains the **Source Code** and **Mission Files** for the "Intr
 
 ## 📂 Declassified Files (Repository Contents)
 
-This repository is organized into **5 Tactical Phases**, each introducing specific computational survival skills.
+This repository is organized into **5 Tactical Phases** with one **Advanced Phase**, each introducing specific computational survival skills.
 
 | File | Mission Objective | MATLAB Skills |
 | :--- | :--- | :--- |
