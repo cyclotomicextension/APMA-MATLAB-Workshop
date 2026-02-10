@@ -21,8 +21,8 @@ This repository is organized into **5 Tactical Phases** with one **Advanced Phas
 
 | File | Mission Objective | MATLAB Skills |
 | :--- | :--- | :--- |
-| **`phase1.m`** | **Intel Gathering**<br>Initialize casualty data across 5 counties. | Vectors, Indexing, Basic Analysis (`sum`, `max`) |
-| **`phase2.m`** | **Migration Tracking**<br>Predict zombie movement using a Migration Matrix. | Matrix Definition, Linear Algebra (`*` vs `.*`) |
+| **`phase1.m`** | **Intel Gathering**<br>Initialize casualty data across 5 counties. | Vectors, Indexing, Basic Analysis (`sum`, `max`), Saving Arrays |
+| **`phase2.m`** | **Migration Tracking**<br>Predict zombie movement using a Migration Matrix. | Matrix Definition, Linear Algebra (`*` vs `.*`), Loading Arrays |
 | **`phase3.m`** | **Hospital Triage**<br>Manage supplies and patient overflow. | Loops (`for`, `while`), Logic (`if/else`), Functions |
 | **`phase4.m`** | **Satellite Recon**<br>Scan thermal maps to identify threats instantly. | Vectorization, Logical Masking, 2D Data Analysis |
 | **`phase5.m`** | **The Forecast**<br>Model the 30-day infection curve. | ODE Solvers (`ode45`), Anonymous Functions, Plotting |
